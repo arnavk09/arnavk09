@@ -9,7 +9,7 @@
 
 I'm <b>Arnav Katgeri</b>, a Computer Science Sophomore at [Manipal University Jaipur](https://jaipur.manipal.edu). My love for code began when I was 16 and ever since I've nurtured and honed my skills. I began with Java and am currently learning Web Development and various frameworks.
 <br>
-- 🔭 I’m currently working on [100 DAYS OF CODE](https://github.com/arnavk09/100-days-of-code)
+- 🔭 I’m currently working on [Web Development (JS/EJS and ReactJS)](https://github.com/arnavk09/webdev)
 
 - 🌱 I’m currently learning **React, JavaScript and NodeJS**
 
