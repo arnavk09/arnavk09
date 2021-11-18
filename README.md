@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arnav Katgeri</h1>
 <h3 align="center">A passionate web developer from India</h3>
+<br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arnavk09&label=Profile%20views&color=0e75b6&style=flat" alt="arnavk09" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnavk09&theme=onedark" alt="arnavk09" /></a> </p>
 
@@ -26,3 +28,7 @@ I'm <b>Arnav Katgeri</b>, a Computer Science Sophomore at [Manipal University Ja
 
 [![Arnav's github activity graph](https://activity-graph.herokuapp.com/graph?username=arnavk09&theme=react-dark)](https://github.com/arnavk09/github-readme-activity-graph)
 
+<h5 align="center">Take a look at my NodeJS card! You can run it on your PC as well by typing <code>npx arnavk09card</code></h5>
+<p><img src = "https://user-images.githubusercontent.com/71816040/142431532-f7d698d6-4f7d-4cf5-9b6d-8b2a539516e6.png"></p>
+<br>
+<p align="center"><img src = "https://user-images.githubusercontent.com/71816040/142432556-e1be7c21-ada4-4f05-a16e-704a5957fec5.gif"></p>
