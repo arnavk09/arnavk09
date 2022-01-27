@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnav Katgeri</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate engineer from India</h3>
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arnavk09&label=Profile%20views&color=0e75b6&style=flat" alt="arnavk09" /> </p>
@@ -9,15 +9,15 @@
 
 <br>
 
-I'm <b>Arnav Katgeri</b>, a Computer Science Sophomore at [Manipal University Jaipur](https://jaipur.manipal.edu). My love for code began when I was 16 and ever since I've nurtured and honed my skills. I began with Java and am currently learning Web Development and various frameworks.
+I'm <b>Arnav Katgeri</b>, a Computer Science Sophomore at [Manipal University Jaipur](https://jaipur.manipal.edu). My love for code began when I was 16 and ever since I've nurtured and honed my skills. I began with Java and am currently working on Machine Learning, Python and its various frameworks.
 <br>
-- 🔭 I’m currently working on [Web Development (JS/EJS and ReactJS)](https://github.com/arnavk09/webdev)
+- 🔭 I’m currently working on [my Python skills](https://github.com/arnavk09/python-ml)
 
-- 🌱 I’m currently learning **React, JavaScript and NodeJS**
+- 🌱 I’m currently learning **Python for Machine Learning**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/arnavk09)
 
-- 💬 Ask me about **JavaScript, Java and data structures**
+- 💬 Ask me about **JavaScript, Java, Python, ML and data structures**
 
 - 📫 How to reach me : **arnavkatgeri@gmail.com**
 
