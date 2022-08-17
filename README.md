@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnavk09" alt="arnavk09" /></a> </p>
 
-- 🔭 I’m currently working on [my Math and Python skills](https://github.com/arnavk09/python-ml)
+- 🔭 I’m currently working on [my Math and DSA skills](https://github.com/arnavk09/python-ml)
 
-- 🌱 I’m currently learning **Python, Math and the Theory of Machine Learning**
+- 🌱 I’m currently learning **Web Development, Data Structures, Algorithms and ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/arnavk09](https://github.com/arnavk09)
 
-- 💬 Ask me about **JavaScript, Java, Python, ML and data structures**
+- 💬 Ask me about **JavaScript, Java, Python and data structures**
 
 - 📫 How to reach me : **arnavkatgeri@gmail.com**
 
