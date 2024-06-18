@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [www.github.com/arnavk09](www.github.com/arnavk09)
 
-- 📝 My Website is [https://arnavk09.github.io/personalSite/](https://arnavk09.github.io/personalSite/)
-
 - 💬 Ask me about **React, JavaScript, CSS, HTML, C, C++, Java and Python**
 
 - 📫 How to reach me **arnavkatgeri@gmail.com**
