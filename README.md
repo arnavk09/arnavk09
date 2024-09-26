@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring Boot and Java EE**
 
-- 💬 Ask me about **Java, JavaScript and React**
+- 💬 Ask me about **AWS, Java, JavaScript and React**
 
 
 <h3 align="left">Languages and Tools:</h3>
