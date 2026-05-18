@@ -12,7 +12,7 @@
 
 ### 🔨 What I'm Building
 
-**SafeCart** · [safecart-ui.vercel.app](https://safecart-ui.vercel.app)
+**SafeCart** · [safecart-ui.vercel.app](https://safecart.up.railway.app/)
 
 India's first escrow-based second-hand marketplace. Funds are held securely until the buyer confirms delivery — no more OLX scams, no more leap-of-faith deals.
 
