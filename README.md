@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnavk09" alt="arnavk09" /></a> </p>
 
-- 🚀 Currently building **[SafeCart](https://safecart-ui.vercel.app)** — India's escrow marketplace for safe second-hand commerce
+- 🚀 Currently building **[SafeCart](https://safecart.up.railway.app)** — India's escrow marketplace for safe second-hand commerce
 - 💼 Software Engineer at **JPMorganChase** — working on enterprise-scale release automation and cloud infrastructure
 - 🏆 JPMC Global Technology Innovation Award 2025
 - 💬 Ask me about **Spring Boot, Java, React, AWS, PostgreSQL**
